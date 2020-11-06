@@ -1,1 +1,2 @@
-This is a file that gives updated information about the project, so you don't have to watch for commits your self. Call it revision if you like.
+This is a file that gives updated information about the project, so you don't have to watch for commits your self. 
+Call it revision if you like. Checkout to v8 is comming soon.
