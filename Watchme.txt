@@ -1,0 +1,1 @@
+This is a file that gives updated information about the project, so you don't have to watch for commits your self. Call it revision if you like.
